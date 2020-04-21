@@ -5,5 +5,5 @@ Lihat Source Code:<br>
 - <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/java/com/rk/avf/MainActivity.java">Program (Java) - MainActivity</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/java/com/rk/avf/MyAdapter.java">Program (Java) - MyAdapter</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/res/layout/activity_main.xml">Layout (XML) - activity_main</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/res/layout/flipper_items.xml">Layout (XML)- flipper_items</a><br>
+- <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/res/layout/flipper_items.xml">Layout (XML) - flipper_items</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/ZZ_AdapterViewFlipper__JVm/blob/master/app/src/main/res/values/strings.xml">String (XML)</a>
